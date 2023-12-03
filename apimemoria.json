@@ -18,10 +18,15 @@
     "usuarios": [
       {
         "id": 2,
-        "first_name": "bladimirasdfasdf",
-        "last_name": "piña",
+        "first_name": "bladi",
+        "last_name": "bladi",
         "email": "bpiña@duocuc.cl",
-        "clave": "456789asdf34rer3re3sdfa"
+      },
+      {
+        "id": 3,
+        "first_name": "rodrigo",
+        "last_name": "rodrigo",
+        "email": "bpiña@duocuc.cl",
       }
     ]
   }
