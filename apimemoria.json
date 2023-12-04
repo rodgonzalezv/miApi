@@ -17,28 +17,28 @@
     ],
     "usuarios": [
       {
-        "id": "1",
-        "first_name": "demo",
-        "last_name": "demo",
+        "id": "MemorIApp-1",
+        "username": "rodrigo",
+        "password": "rodrigo",
         "email": "rodrigo@system.cl"
-      },
+      },      
       {
-        "id": "2",
-        "first_name": "rodrigo",
-        "last_name": "rodrigo",
-        "email": "rodrigo@virtual.cl"
-      },
+        "id": "MemorIApp-2",
+        "username": "bladi",
+        "password": "bladi",
+        "email": "rodrigo@system.cl"
+      },      
       {
-        "id": "3",
-        "first_name": "bladi",
-        "last_name": "bladi",
-        "email": "bpiña@duocuc.cl"
-      },
+        "id": "MemorIApp-3",
+        "username": "profe",
+        "password": "profe",
+        "email": "rodrigo@system.cl"
+      },      
       {
-        "id": "4",
-        "first_name": "profe",
-        "last_name": "profe",
-        "email": "bpiña@duocuc.cl"
+        "id": "MemorIApp-4",
+        "username": "demo",
+        "password": "demo",
+        "email": "rodrigo@system.cl"
       }
     ]
   }
