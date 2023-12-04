@@ -1,19 +1,19 @@
 {
     "productos": [
-      {
-        "id": 1,
-        "nombre": "Memorial Basico",
-        "descripcion": "Este es un memorial simple para una sola persona y con interacciones basicas",
-        "precio": 0,
-        "cantidad": 1
-      },
-      {
-        "id": 2,
-        "nombre": "Memorial Familia",
-        "descripcion": "Memoriales para un grupo familiar, interacciones intermedias",
-        "precio": 5000,
-        "cantidad": 5
-      }
+        {
+          "id": "1",
+          "nombre": "Memorial Basico",
+          "descripcion": "Este es un memorial simple para una sola persona y con interacciones basicas",
+          "precio": "0",
+          "cantidad": "1"
+        },
+        {
+          "id": "2",
+          "nombre": "Memorial Familia",
+          "descripcion": "Memoriales para un grupo familiar, interacciones intermedias",
+          "precio": "5000",
+          "cantidad": "5"
+        }
     ],
     "usuarios": [
       {
