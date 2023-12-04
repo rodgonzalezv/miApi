@@ -20,13 +20,15 @@
         "id": 2,
         "first_name": "bladi",
         "last_name": "bladi",
-        "email": "bpiña@duocuc.cl",
+        "email": "bpiña@duocuc.cl"
       },
       {
         "id": 3,
         "first_name": "rodrigo",
         "last_name": "rodrigo",
-        "email": "bpiña@duocuc.cl",
+        "email": "bpiña@duocuc.cl"
       }
     ]
   }
+  
+  
