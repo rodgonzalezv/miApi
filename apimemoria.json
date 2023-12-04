@@ -1,31 +1,43 @@
 {
     "productos": [
       {
-        "id": 1023,
-        "nombre": "Memorial 2oiuy",
-        "descripcion": "Memorial para 1 ser querido",
+        "id": 1,
+        "nombre": "Memorial Basico",
+        "descripcion": "Este es un memorial simple para una sola persona y con interacciones basicas",
         "precio": 0,
-        "cantidad": 2
+        "cantidad": 1
       },
       {
-        "id": 15,
-        "nombre": "Memorial Premiunsssssssss",
-        "descripcion": "Memoriales ilimitados para grupos familiares y amigosss",
-        "precio": 0,
-        "cantidad": 100
+        "id": 2,
+        "nombre": "Memorial Familia",
+        "descripcion": "Memoriales para un grupo familiar, interacciones intermedias",
+        "precio": 5000,
+        "cantidad": 5
       }
     ],
     "usuarios": [
       {
-        "id": 2,
+        "id": "1",
+        "first_name": "demo",
+        "last_name": "demo",
+        "email": "rodrigo@system.cl"
+      },
+      {
+        "id": "2",
+        "first_name": "rodrigo",
+        "last_name": "rodrigo",
+        "email": "rodrigo@virtual.cl"
+      },
+      {
+        "id": "3",
         "first_name": "bladi",
         "last_name": "bladi",
         "email": "bpiña@duocuc.cl"
       },
       {
-        "id": 3,
-        "first_name": "rodrigo",
-        "last_name": "rodrigo",
+        "id": "4",
+        "first_name": "profe",
+        "last_name": "profe",
         "email": "bpiña@duocuc.cl"
       }
     ]
